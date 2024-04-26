@@ -1,4 +1,4 @@
-# PyTorch-Circle-Classification
+# 🔵 PyTorch-Circle-Classification
 
 This Jupyter Notebook implements a binary classification neural network using PyTorch. The model classifies points generated in circles into two classes. It includes data generation, preprocessing, model construction, training, and evaluation.
 
